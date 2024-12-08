@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6ab102b-7a44-405c-8b1f-1fa876fa9a50" name="Changes" comment="task 3.2 stage">
-      <change afterPath="$PROJECT_DIR$/Task_4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_4_2.py" afterDir="false" />
+    <list default="true" id="d6ab102b-7a44-405c-8b1f-1fa876fa9a50" name="Changes" comment="task 4.2 stage">
+      <change afterPath="$PROJECT_DIR$/Task_5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_5_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +55,9 @@
     "Python.Task_3_2.executor": "Run",
     "Python.Task_4_1.executor": "Run",
     "Python.Task_4_2.executor": "Run",
+    "Python.Task_5_2.executor": "Run",
+    "Python.Task_5_3.executor": "Run",
+    "Python.task_5_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -84,11 +88,20 @@
       <option name="project" value="LOCAL" />
       <updated>1733556089220</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task 4.2 stage">
+      <option name="closed" value="true" />
+      <created>1733642893756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733642893756</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task 3.2 stage" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 3.2 stage" />
+    <MESSAGE value="task 4.2 stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 4.2 stage" />
   </component>
 </project>
