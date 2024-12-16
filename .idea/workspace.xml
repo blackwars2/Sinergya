@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6ab102b-7a44-405c-8b1f-1fa876fa9a50" name="Changes" comment="task 8.1 - 8.3 stage">
-      <change afterPath="$PROJECT_DIR$/Task_7_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_7_2.py" afterDir="false" />
+    <list default="true" id="d6ab102b-7a44-405c-8b1f-1fa876fa9a50" name="Changes" comment="task 7.1 - 8.2 stage">
+      <change afterPath="$PROJECT_DIR$/Task_9_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +65,9 @@
     "Python.Task_8_1.executor": "Run",
     "Python.Task_8_2.executor": "Run",
     "Python.Task_8_3.executor": "Run",
+    "Python.Task_9_1.executor": "Run",
+    "Python.Task_9_2.executor": "Run",
+    "Python.Task_9_3.executor": "Run",
     "Python.task_5_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -127,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733822317037</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task 7.1 - 8.2 stage">
+      <option name="closed" value="true" />
+      <created>1734327523006</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734327523006</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -136,6 +148,7 @@
     <MESSAGE value="task 5.3 stage" />
     <MESSAGE value="task 6.1 - 6.3 stage" />
     <MESSAGE value="task 8.1 - 8.3 stage" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 8.1 - 8.3 stage" />
+    <MESSAGE value="task 7.1 - 8.2 stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 7.1 - 8.2 stage" />
   </component>
 </project>
