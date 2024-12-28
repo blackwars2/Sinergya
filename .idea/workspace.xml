@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6ab102b-7a44-405c-8b1f-1fa876fa9a50" name="Changes" comment="task 9.1 - 9.3 stage">
-      <change afterPath="$PROJECT_DIR$/Task_10_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_10_2.py" afterDir="false" />
+    <list default="true" id="d6ab102b-7a44-405c-8b1f-1fa876fa9a50" name="Changes" comment="task 10.1 - 10.2 stage">
+      <change afterPath="$PROJECT_DIR$/Task_11_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_11_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.Task_10_1.executor": "Run",
     "Python.Task_10_2.executor": "Run",
+    "Python.Task_11_1.executor": "Run",
     "Python.Task_3_1.executor": "Run",
     "Python.Task_3_2.executor": "Run",
     "Python.Task_4_1.executor": "Run",
@@ -148,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734333495454</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task 10.1 - 10.2 stage">
+      <option name="closed" value="true" />
+      <created>1735067021882</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735067021882</updated>
+    </task>
+    <task id="LOCAL-00009" summary="task 10.1 - 10.2 stage">
+      <option name="closed" value="true" />
+      <created>1735067032528</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735067032528</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +176,7 @@
     <MESSAGE value="task 8.1 - 8.3 stage" />
     <MESSAGE value="task 7.1 - 8.2 stage" />
     <MESSAGE value="task 9.1 - 9.3 stage" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 9.1 - 9.3 stage" />
+    <MESSAGE value="task 10.1 - 10.2 stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 10.1 - 10.2 stage" />
   </component>
 </project>
