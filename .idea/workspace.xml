@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6ab102b-7a44-405c-8b1f-1fa876fa9a50" name="Changes" comment="Task_11.1 - 11.2">
-      <change afterPath="$PROJECT_DIR$/Task_12_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12_3.py" afterDir="false" />
+    <list default="true" id="d6ab102b-7a44-405c-8b1f-1fa876fa9a50" name="Changes" comment="Task_13.1">
+      <change afterPath="$PROJECT_DIR$/Task_14-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tes_14_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +56,7 @@
     "Python.Task_11_2.executor": "Run",
     "Python.Task_12_1.executor": "Run",
     "Python.Task_12_2.executor": "Run",
+    "Python.Task_12_3.executor": "Run",
     "Python.Task_3_1.executor": "Run",
     "Python.Task_3_2.executor": "Run",
     "Python.Task_4_1.executor": "Run",
@@ -74,6 +74,7 @@
     "Python.Task_9_1.executor": "Run",
     "Python.Task_9_2.executor": "Run",
     "Python.Task_9_3.executor": "Run",
+    "Python.Tes_14_1.executor": "Run",
     "Python.task_5_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -201,7 +202,31 @@
       <option name="project" value="LOCAL" />
       <updated>1735414726428</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Task_12.1 - 12.3">
+      <option name="closed" value="true" />
+      <created>1735551390678</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735551390678</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Task_12.1 - 12.3">
+      <option name="closed" value="true" />
+      <created>1735731057733</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735731057733</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Task_13.1">
+      <option name="closed" value="true" />
+      <created>1735731080621</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735731080621</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -215,6 +240,8 @@
     <MESSAGE value="task 11.1 - 11.2 stage" />
     <MESSAGE value="task 10.1 - 10.2 stage" />
     <MESSAGE value="Task_11.1 - 11.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task_11.1 - 11.2" />
+    <MESSAGE value="Task_12.1 - 12.3" />
+    <MESSAGE value="Task_13.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task_13.1" />
   </component>
 </project>
